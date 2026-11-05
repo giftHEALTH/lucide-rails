@@ -15,6 +15,6 @@ gem "byebug", "~> 11.1"
 
 gem "simplecov", "~> 0.22.0", require: false
 
-gem "combustion", "~> 1.3"
+gem "combustion", "~> 1.7"
 
 gem "rspec-rails", "~> 6.1"
